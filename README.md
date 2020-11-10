@@ -1,4 +1,4 @@
-![picture33](https://github.com/Turing-zk/Turint_papers_share/blob/main/Image/Screenshot%20from%202020-11-10%2011-40-23.png)
+<center>![picture33](https://github.com/Turing-zk/Turint_papers_share/blob/main/Image/Screenshot%20from%202020-11-10%2011-40-23.png)</center>
 # 图灵智库内部文档
 
 ## [图灵论文推荐](https://github.com/Turing-zk/Turint_papers_share/blob/main/Paperlist.md)
