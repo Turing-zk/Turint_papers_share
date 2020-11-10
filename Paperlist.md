@@ -1,9 +1,12 @@
 # 图灵智库论文推荐
 ## 顶会速递
+- [IROS 2020](https://github.com/PaoPaoRobot/IROS2020-paper-list)
 - [ECCV2020 Paperlist](https://www.ecva.net/papers.php)
 - [ICRA2020](https://github.com/PaoPaoRobot/ICRA2020-paper-list)
 - [SLAM research](https://github.com/YiChenCityU/Recent_SLAM_Research)
 - [CVPR 2020](https://openaccess.thecvf.com/CVPR2020)
+- [CVPR 2020分类整理](https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation)
+
 
 ## 专题分类推荐
 
