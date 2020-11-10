@@ -7,6 +7,8 @@
 
 ## [[2018-2020]图灵智库-已翻译论文排序](https://docs.qq.com/sheet/DTExzV3JPYUNDVXVE)
 
+## [图灵智库秀米上传教程](https://github.com/Turing-zk/Turint_papers_share/blob/main/TuringTutoial.md)
+
 
 
 
